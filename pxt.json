@@ -1,5 +1,6 @@
 {
     "name": "ロボカー遠隔（送信）0410",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
